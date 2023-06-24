@@ -1,4 +1,4 @@
-
+# ** Pattern Recognition
 # ** Task description:
 '''
 The daily life of Shri Ram in Gurukul includes Education sessions from the Guru, Sparring to increase experience in Sastra-Vidya and Strict meals in between. Sometimes though, Sree Ram gets free time and this happened to be one such time. While enjoying one such free time with his friends, one of his friends suggested Shri Ram and the others play a game he had recently learned.
