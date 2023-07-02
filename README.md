@@ -10,4 +10,4 @@ After all this I started with the task.
    
    -Task_1: This was a very easy task as I had to make a simple python program to guess the number in a specific number of turns. And there are some rules to follow while solving this task.
 
-   -Task_2: In this task
+   -Task_2: In this task I had to find the pattern in the array given.
