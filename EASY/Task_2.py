@@ -1,4 +1,4 @@
-# ** Guess the Number
+# ** pattern recognition
 # ** Task Description
 '''
 Shri Ram once saw a Yodha, expressing his Sastra-Vidya. He found it very intriguing, so he asked his Guru about it. He said, “Sastra-Vidya is the expression of one’s self through their Sastra. It’s an art with intricate body movements creating profound patterns depicting their experience and love for their Sastra.” Shri Ram now even more intrigued, started looking into these so-called patterns mentioned by his Guru.
